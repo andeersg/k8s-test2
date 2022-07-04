@@ -1,0 +1,9 @@
+
+defaultNamespace: default
+
+helm:
+  chart: github.com/andeersg/drupal_helm_chart
+  # Any values that should be placed in the `values.yaml` and passed to helm during
+  # install.
+  valuesFiles:
+    - rancher_values.yaml

@@ -1,0 +1,12 @@
+drupalHashSalt: "su6nfMFns6BNmxKFCAgpiwhgZM"
+
+# Domene som brukes:
+ingress:
+  hostname: "test2.prototyp.io"
+  enabled: true
+
+project:
+  repository: ""
+  branch: "main"
+
+# Annoteringene er for let's encrypt.
