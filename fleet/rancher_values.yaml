@@ -6,7 +6,7 @@ ingress:
   enabled: true
 
 project:
-  repository: ""
+  repository: "https://github.com/andeersg/k8s-test2.git"
   branch: "main"
 
 # Annoteringene er for let's encrypt.
