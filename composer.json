@@ -1,0 +1,12 @@
+{
+    "name": "anders.grendstadbakk/next_website",
+    "authors": [
+        {
+            "name": "Anders Grendstadbakk",
+            "email": "anders.2205@gmail.com"
+        }
+    ],
+    "require": {
+        "kint-php/kint": "^4.1"
+    }
+}
