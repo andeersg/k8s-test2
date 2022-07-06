@@ -19,5 +19,6 @@
 <body>
   <h1><?php echo "Hello there, i'm PHP"; ?></h1>
   <img src="/sites/default/files/example.jpeg" />
+  <p>Why the hell is this not triggering!</p>
 </body>
 </html>
