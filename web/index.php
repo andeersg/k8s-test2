@@ -6,6 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <style>
+    body {
+      background-color: #333;
+      color: #FFF;
+    }
     img {
       max-width: 100%;
       height: auto;
