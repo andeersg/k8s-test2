@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1><?php echo "Hello there, i'm PHP"; ?></h1>
-  <p>Let's go!!!!!!!!</p>
+  <img src="/sites/default/files/example.jpeg" />
 </body>
 </html>
